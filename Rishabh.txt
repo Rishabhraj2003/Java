@@ -1,3 +1,1 @@
-Hello Rishabh!
-Welcome to Java File Handling Example.
-This file is created using java.io.FileWriter class.
+Learning the java 
